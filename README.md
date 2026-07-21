@@ -123,7 +123,7 @@ BrightTV-Viewership-Analytics/
 │   └── BrightTV_Raw_Data.csv            # Raw dataset
 │
 ├── 02_project_planning/
-│   └── BrightTV_Miro_Flowchart.png      # Project flow diagram
+│   └── BrightTV_Miro_Flowchart.png      # Project flow diagram screenshots
 │
 ├── 03_data_processing/
 │   ├── BrightTV_Viewership_Analysis_2026.sql   # Full annotated SQL notebook
@@ -143,6 +143,14 @@ BrightTV-Viewership-Analytics/
         ├── looker_time_trends.png
         └── looker_content_channels.png
 ```
+
+---
+
+## Live Links
+
+| Resource | Link |
+|---|---|
+| **Miro Project Flow Board** | [View Live Board](https://miro.com/app/board/uXjVHAd3XU8=/?share_link_id=916593667002) |
 
 ---
 
